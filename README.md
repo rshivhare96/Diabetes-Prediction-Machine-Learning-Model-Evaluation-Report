@@ -53,8 +53,4 @@ We trained and evaluated **four machine learning models**:
 🚀 **Deploy the best model** as a web app or API  
 🚀 **Collect more data** to improve generalization  
 
-## Installation & Usage  
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/diabetes-prediction.git
-cd diabetes-prediction
+
